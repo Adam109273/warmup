@@ -16,4 +16,7 @@ def hello():
 
 ### YOU SHOULD NOT NEED TO CHANGE ANYTHING HERE ###
 if __name__ == '__main__':
-    hello()
+input("what is your name|\n)
+print("hello,Name")
+      hello(Adam)
+    
